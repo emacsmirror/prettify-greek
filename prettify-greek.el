@@ -3,6 +3,9 @@
 ;; Copyright (C) 2016 Sam Halliday
 ;; License: http://www.gnu.org/licenses/gpl.html
 
+;; Homepage: https://gitlab.com/fommil/emacs-prettify-greek
+;; Keywords: faces
+
 ;;; Commentary:
 ;;
 ;;  Provides a table of Greek letters and their UTF-8 symbols for
