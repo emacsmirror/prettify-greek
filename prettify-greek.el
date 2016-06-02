@@ -55,8 +55,7 @@
 
 (defconst
   prettify-greek-upper
-  '(
-    ("Alpha" . ?Α)
+  '(("Alpha" . ?Α)
     ("Beta" . ?Β)
     ("Gamma" . ?Γ)
     ("Delta" . ?Δ)
