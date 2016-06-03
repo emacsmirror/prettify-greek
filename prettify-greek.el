@@ -81,6 +81,6 @@
     ("Omega" . ?Ω))
   "Prettify rules for upper case greek letters.")
 
-(provide 'prettify-greek.el)
+(provide 'prettify-greek)
 
 ;;; prettify-greek.el ends here
